@@ -1,5 +1,5 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ('Umami burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Double Double', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Bison burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('big Mac', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Chicken Burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('malawax', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double cheese', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('dag dag', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('big canjeero', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chicken cassadia', FALSE);

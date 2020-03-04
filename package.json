@@ -1,25 +1,26 @@
 {
-  "name": "burger-app",
+  "name": "burger-homework",
   "version": "1.0.0",
   "description": "mysql burger homework",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georgeraymond92/burger-app.git"
+    "url": "git+https://github.com/hamzaaaabdikarim33/Burger-homework.git"
   },
-  "author": "George Raymond",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/georgeraymond92/burger-app/issues"
+    "url": "https://github.com/hamzaaaabdikarim33/Burger-homework/issues"
   },
-  "homepage": "https://github.com/georgeraymond92/burger-app#readme",
+  "homepage": "https://github.com/hamzaaaabdikarim33/Burger-homework#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "mysql": "^2.16.0"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
   }
 }
