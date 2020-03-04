@@ -1,1 +1,6 @@
-# Burger-homework
+# burger-app
+mysql burger homework
+
+
+
+<!-- instructions -->
